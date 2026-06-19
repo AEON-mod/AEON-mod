@@ -1,77 +1,220 @@
-# 👋 Welcome to My GitHub
+# <div align="center">✨ AEON-mod | System Architect & UI Aesthetics Enthusiast ✨</div>
 
-Hello! I'm **AEON-mod**, a passionate developer focused on **Windows system optimization**, **aesthetic customization**, and **security improvements**. I create tools and resources that empower users to personalize their systems while maintaining performance and privacy.
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AEON-mod&color=blueviolet&style=flat-square)](https://github.com/AEON-mod)
+[![GitHub followers](https://img.shields.io/github/followers/AEON-mod?style=flat-square&color=blueviolet)](https://github.com/AEON-mod?tab=followers)
+![GitHub User's stars](https://img.shields.io/github/stars/AEON-mod?style=flat-square&color=blueviolet)
+
+**Building beautiful, secure, and optimized Windows experiences**
+
+[Projects](#-featured-projects) • [Skills](#-tech-stack) • [Statistics](#-github-statistics) • [Get In Touch](#-connect)
+
+</div>
 
 ---
 
-## 🎯 About Me
+## 👋 Welcome to My Digital Space
 
-I specialize in:
-- **🛡️ System Security**: Scripts and tools for Windows hardening and bloatware removal
-- **🎨 UI/UX Customization**: Curated collections for aesthetic Windows ricing
-- **⚡ Performance Optimization**: Tools to enhance system efficiency and control
+I'm **AEON-mod**, a passionate system architect and UI/UX enthusiast dedicated to crafting **beautiful**, **secure**, and **optimized** computing experiences. My passion lies in bridging the gap between functionality and aesthetics—because great tools should also look great.
+
+> *"Great design is invisible. It works so well, you don't notice it."* — Someone wise probably
+
+<div align="center">
+
+### 🎯 What I Do
+
+| 🛡️ **Security Hardening** | 🎨 **Aesthetic Design** | ⚡ **Performance** |
+|:---:|:---:|:---:|
+| Windows hardening scripts | UI/UX customization | System optimization |
+| Privacy-first tools | Visual asset curation | Efficiency enhancement |
+| Threat mitigation | Cinematic minimalism | Control & autonomy |
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### [🌌 Customization](https://github.com/AEON-mod/Customization)
-A curated collection for Windows ricing focused on transparency, blur effects, and cinematic UI minimalism. Includes configurations for tools like Windhawk and YASB.
+<div align="center">
 
-**Tech Stack:** CSS | Documentation  
-**Topics:** Aesthetic, Customization, Dotfiles, UI/UX
+### 🌌 **[Customization](https://github.com/AEON-mod/Customization)**
 
-### [🛡️ Security-Improvements](https://github.com/AEON-mod/Security-Improvements)
-A comprehensive collection of scripts and tools for Windows security hardening, system optimization, and responsible bloatware removal with focus on privacy and control.
+<a href="https://github.com/AEON-mod/Customization">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AEON-mod/Customization?style=flat-square&color=blueviolet&label=Stars">
+</a>
 
-**Tech Stack:** PowerShell | Windows Administration  
-**Topics:** Security, Privacy, System Optimization, Windows 11
+**A curated collection for Windows ricing focused on transparency, blur effects, and cinematic UI minimalism.**
 
-### [🎨 CozyPixels](https://github.com/AEON-mod/CozyPixels)
-An aesthetic wallpaper collection featuring Catppuccin, Nord, One Dark themes and cozy vibes. Free for everyone to enjoy.
+Advanced configurations for Windhawk, YASB, and other customization tools. Create your dream desktop environment.
 
-**Tech Stack:** Visual Assets | Documentation  
-**Topics:** Aesthetic, Wallpapers, Themes
+**Tech Stack:** `CSS` • `Windows` • `YAML`  
+**Topics:** `aesthetic` `customization` `dotfiles` `ui-ux` `windhawk` `windows-ricing` `yasb`
+
+---
+
+### 🛡️ **[Security-Improvements](https://github.com/AEON-mod/Security-Improvements)**
+
+<a href="https://github.com/AEON-mod/Security-Improvements">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AEON-mod/Security-Improvements?style=flat-square&color=blueviolet&label=Stars">
+</a>
+
+**A comprehensive collection of scripts and tools for Windows security hardening, system optimization, and responsible bloatware removal.**
+
+Focus on privacy, performance, and giving you control over your system. Privacy-first approach to system administration.
+
+**Tech Stack:** `PowerShell` • `Windows Administration` • `Batch`  
+**Topics:** `security` `privacy` `system-optimization` `windows-11` `hardening` `debloater` `performance-tweaks`
+
+---
+
+### 🎨 **[CozyPixels](https://github.com/AEON-mod/CozyPixels)**
+
+<a href="https://github.com/AEON-mod/CozyPixels">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AEON-mod/CozyPixels?style=flat-square&color=blueviolet&label=Stars">
+</a>
+
+**An aesthetic wallpaper collection featuring Catppuccin, Nord, One Dark themes and cozy vibes.**
+
+Handpicked wallpapers to elevate your visual experience. Perfect for complementing your Windows customization setup.
+
+**Tech Stack:** `Visual Assets` • `Design` • `Documentation`  
+**License:** MIT  
+**Topics:** `aesthetic` `wallpapers` `themes` `catppuccin` `nord` `one-dark`
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### **Languages & Tools**
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### **Specializations**
+
+![System Security](https://img.shields.io/badge/System%20Security-FF6B6B?style=flat-square&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-4ECDC4?style=flat-square&logoColor=white)
+![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-95E1D3?style=flat-square&logoColor=white)
+![Windows Administration](https://img.shields.io/badge/Windows%20Admin-0078D4?style=flat-square&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-FF6B9D?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=AEON-mod&color=blueviolet)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AEON-mod&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&icon_color=blueviolet)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AEON-mod&theme=transparent&layout=compact&border_radius=10)
+
+</div>
 
 ---
 
-## 🤝 Contributing
+## 🤝 How to Contribute
 
-I welcome contributions, feedback, and suggestions! If you find my projects useful or have ideas for improvements:
+I'm always excited to work with the community! Here's how you can get involved:
 
-- **Report Issues**: Open an issue in the relevant repository  
-- **Submit PRs**: I'd love to see your improvements  
-- **Feedback**: Feel free to start a discussion
+<div align="center">
 
----
+| 🐛 | 💡 | 🔄 | 📚 |
+|:---:|:---:|:---:|:---:|
+| **Report Bugs** | **Suggest Ideas** | **Submit PRs** | **Improve Docs** |
+| Found an issue? | Have a feature idea? | Help us improve! | Better docs matter! |
+| [Open Issue](https://github.com/AEON-mod?tab=repositories) | [Start Discussion](https://github.com/AEON-mod?tab=repositories) | [Create PR](https://github.com/AEON-mod?tab=repositories) | [Edit Docs](https://github.com/AEON-mod?tab=repositories) |
 
-## 📚 Repository Highlights
-
-| Repository | Description | Language | Stars |
-|-----------|-------------|----------|-------|
-| [Customization](https://github.com/AEON-mod/Customization) | Windows ricing & aesthetic UI configs | CSS | ![Stars](https://img.shields.io/github/stars/AEON-mod/Customization?style=flat-square) |
-| [Security-Improvements](https://github.com/AEON-mod/Security-Improvements) | Windows security & optimization scripts | PowerShell | ![Stars](https://img.shields.io/github/stars/AEON-mod/Security-Improvements?style=flat-square) |
-| [CozyPixels](https://github.com/AEON-mod/CozyPixels) | Aesthetic wallpaper collection | Visual Assets | ![Stars](https://img.shields.io/github/stars/AEON-mod/CozyPixels?style=flat-square) |
+</div>
 
 ---
 
-## 🔗 Connect
+## 📈 Repository Highlights
 
-- 📧 **Open to collaborations and feedback**  
-- 🌐 **Contributing to the open-source community**
+| 📦 Repository | 📝 Description | 🔧 Language | ⭐ Stars |
+|:---|:---|:---:|:---:|
+| **[Customization](https://github.com/AEON-mod/Customization)** | Windows ricing & aesthetic UI configs | CSS | ![](https://img.shields.io/github/stars/AEON-mod/Customization?style=flat-square&color=blueviolet) |
+| **[Security-Improvements](https://github.com/AEON-mod/Security-Improvements)** | Windows security & optimization scripts | PowerShell | ![](https://img.shields.io/github/stars/AEON-mod/Security-Improvements?style=flat-square&color=blueviolet) |
+| **[CozyPixels](https://github.com/AEON-mod/CozyPixels)** | Aesthetic wallpaper collection | Visual Assets | ![](https://img.shields.io/github/stars/AEON-mod/CozyPixels?style=flat-square&color=blueviolet) |
+
+---
+
+## 🎯 My Mission
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  Making Windows beautiful, secure, and blazingly fast      │
+│                                                             │
+│  One customization at a time, for everyone ✨              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Believe in:**
+- 🎨 **Aesthetics matter** - Beauty and function aren't mutually exclusive
+- 🔐 **Privacy is a right** - Users deserve control over their systems
+- ⚡ **Performance counts** - Smooth systems are happy systems
+- 🤝 **Community is key** - Together we build better tools
+
+</div>
 
 ---
 
-## 📝 License
+## 🔗 Connect & Collaborate
 
-Most of my projects are open-source. Check individual repositories for their respective licenses.
+<div align="center">
+
+**I'm always open to collaborations, feedback, and interesting conversations!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=flat-square&logo=github)](https://github.com/AEON-mod)
+[![Issues](https://img.shields.io/badge/GitHub-Open%20Issues-blueviolet?style=flat-square&logo=github)](https://github.com/AEON-mod?tab=repositories)
+
+**Let's create something beautiful together! 💫**
+
+</div>
 
 ---
+
+## 📜 License
+
+Most of my projects are open-source. Check individual repositories for their respective licenses:
+- **[Customization](https://github.com/AEON-mod/Customization)** - MIT
+- **[Security-Improvements](https://github.com/AEON-mod/Security-Improvements)** - MIT  
+- **[CozyPixels](https://github.com/AEON-mod/CozyPixels)** - MIT
+
+---
+
+<div align="center">
+
+### <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 **Made with ❤️ for the open-source community**
+
+*Last updated: June 19, 2026*
+
+---
+
+<sub>
+  <b>⭐ If you find my projects helpful, please consider starring them!</b>
+  <br>
+  It helps others discover these resources and motivates me to continue improving them. 🙏
+</sub>
+
+</div>

@@ -14,25 +14,6 @@
 
 ---
 
-## 👋 Welcome to My Digital Space
-
-I'm **AEON-mod**, a passionate system architect and UI/UX enthusiast dedicated to crafting **beautiful**, **secure**, and **optimized** computing experiences. My passion lies in bridging the gap between functionality and aesthetics—because great tools should also look great.
-
-> *"Great design is invisible. It works so well, you don't notice it."* — Someone wise probably
-
-<div align="center">
-
-### 🎯 What I Do
-
-| 🛡️ **Security Hardening** | 🎨 **Aesthetic Design** | ⚡ **Performance** |
-|:---:|:---:|:---:|
-| Windows hardening scripts | UI/UX customization | System optimization |
-| Privacy-first tools | Visual asset curation | Efficiency enhancement |
-| Threat mitigation | Cinematic minimalism | Control & autonomy |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 

@@ -35,22 +35,6 @@
 
 ---
 
-## 🤝 How to Contribute
-
-I'm always excited to work with the community! Here's how you can get involved:
-
-<div align="center">
-
-| 🐛 | 💡 | 🔄 | 📚 |
-|:---:|:---:|:---:|:---:|
-| **Report Bugs** | **Suggest Ideas** | **Submit PRs** | **Improve Docs** |
-| Found an issue? | Have a feature idea? | Help us improve! | Better docs matter! |
-| [Open Issue](https://github.com/AEON-mod?tab=repositories) | [Start Discussion](https://github.com/AEON-mod?tab=repositories) | [Create PR](https://github.com/AEON-mod?tab=repositories) | [Edit Docs](https://github.com/AEON-mod?tab=repositories) |
-
-</div>
-
----
-
 ## 📈 Repository Highlights
 
 | 📦 Repository | 📝 Description | 🔧 Language | ⭐ Stars |
@@ -85,6 +69,21 @@ I'm always excited to work with the community! Here's how you can get involved:
 
 ---
 
+## 🤝 How to Contribute
+
+I'm always excited to work with the community! Here's how you can get involved:
+
+<div align="center">
+
+| 🐛 | 💡 | 🔄 | 📚 |
+|:---:|:---:|:---:|:---:|
+| **Report Bugs** | **Suggest Ideas** | **Submit PRs** | **Improve Docs** |
+| Found an issue? | Have a feature idea? | Help us improve! | Better docs matter! |
+| [Open Issue](https://github.com/AEON-mod?tab=repositories) | [Start Discussion](https://github.com/AEON-mod?tab=repositories) | [Create PR](https://github.com/AEON-mod?tab=repositories) | [Edit Docs](https://github.com/AEON-mod?tab=repositories) |
+
+</div>
+
+---
 
 ## 📜 License
 

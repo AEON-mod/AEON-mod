@@ -61,7 +61,7 @@
       <a href="https://github.com/AEON-mod/Scripts">
         <img src="https://img.shields.io/badge/⚙️-Scripts-95E1D3?style=for-the-badge" alt="Scripts"/>
       </a>
-      <br><small>Utility scripts for frictionless Workflows</small>
+      <br><small>Utility scripts for Frictionless Workflows</small>
     </td>
   </tr>
 </table>

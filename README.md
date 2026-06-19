@@ -102,20 +102,6 @@ I'm always excited to work with the community! Here's how you can get involved:
 
 ---
 
-## 🔗 Connect & Collaborate
-
-<div align="center">
-
-**I'm always open to collaborations, feedback, and interesting conversations!**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=flat-square&logo=github)](https://github.com/AEON-mod)
-[![Issues](https://img.shields.io/badge/GitHub-Open%20Issues-blueviolet?style=flat-square&logo=github)](https://github.com/AEON-mod?tab=repositories)
-
-**Let's create something beautiful together! 💫**
-
-</div>
-
----
 
 ## 📜 License
 

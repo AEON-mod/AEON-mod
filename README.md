@@ -34,58 +34,6 @@ I'm **AEON-mod**, a passionate system architect and UI/UX enthusiast dedicated t
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-### 🌌 **[Customization](https://github.com/AEON-mod/Customization)**
-
-<a href="https://github.com/AEON-mod/Customization">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AEON-mod/Customization?style=flat-square&color=blueviolet&label=Stars">
-</a>
-
-**A curated collection for Windows ricing focused on transparency, blur effects, and cinematic UI minimalism.**
-
-Advanced configurations for Windhawk, YASB, and other customization tools. Create your dream desktop environment.
-
-**Tech Stack:** `CSS` • `Windows` • `YAML`  
-**Topics:** `aesthetic` `customization` `dotfiles` `ui-ux` `windhawk` `windows-ricing` `yasb`
-
----
-
-### 🛡️ **[Security-Improvements](https://github.com/AEON-mod/Security-Improvements)**
-
-<a href="https://github.com/AEON-mod/Security-Improvements">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AEON-mod/Security-Improvements?style=flat-square&color=blueviolet&label=Stars">
-</a>
-
-**A comprehensive collection of scripts and tools for Windows security hardening, system optimization, and responsible bloatware removal.**
-
-Focus on privacy, performance, and giving you control over your system. Privacy-first approach to system administration.
-
-**Tech Stack:** `PowerShell` • `Windows Administration` • `Batch`  
-**Topics:** `security` `privacy` `system-optimization` `windows-11` `hardening` `debloater` `performance-tweaks`
-
----
-
-### 🎨 **[CozyPixels](https://github.com/AEON-mod/CozyPixels)**
-
-<a href="https://github.com/AEON-mod/CozyPixels">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AEON-mod/CozyPixels?style=flat-square&color=blueviolet&label=Stars">
-</a>
-
-**An aesthetic wallpaper collection featuring Catppuccin, Nord, One Dark themes and cozy vibes.**
-
-Handpicked wallpapers to elevate your visual experience. Perfect for complementing your Windows customization setup.
-
-**Tech Stack:** `Visual Assets` • `Design` • `Documentation`  
-**License:** MIT  
-**Topics:** `aesthetic` `wallpapers` `themes` `catppuccin` `nord` `one-dark`
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">

@@ -2,23 +2,6 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AEON-mod&color=blueviolet&style=flat-square)](https://github.com/AEON-mod)
-[![GitHub followers](https://img.shields.io/github/followers/AEON-mod?style=flat-square&color=blueviolet)](https://github.com/AEON-mod?tab=followers)
-![GitHub User's stars](https://img.shields.io/github/stars/AEON-mod?style=flat-square&color=blueviolet)
-
-**Building beautiful, secure, and optimized Windows experiences**
-
-[Projects](#-featured-projects) • [Skills](#-tech-stack) • [Statistics](#-github-statistics) • [Get In Touch](#-connect)
-
-</div>
-
----
-
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
 ### **Languages & Tools**
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)

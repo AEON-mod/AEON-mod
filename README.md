@@ -35,13 +35,36 @@
 
 ---
 
-## 📈 Repository Highlights
+## 📦 Featured Projects
 
-| 📦 Repository | 📝 Description | 🔧 Language | ⭐ Stars |
-|:---|:---|:---:|:---:|
-| **[Customization](https://github.com/AEON-mod/Customization)** | Windows ricing & aesthetic UI configs | CSS | ![](https://img.shields.io/github/stars/AEON-mod/Customization?style=flat-square&color=blueviolet) |
-| **[Security-Improvements](https://github.com/AEON-mod/Security-Improvements)** | Windows security & optimization scripts | PowerShell | ![](https://img.shields.io/github/stars/AEON-mod/Security-Improvements?style=flat-square&color=blueviolet) |
-| **[CozyPixels](https://github.com/AEON-mod/CozyPixels)** | Aesthetic wallpaper collection | Visual Assets | ![](https://img.shields.io/github/stars/AEON-mod/CozyPixels?style=flat-square&color=blueviolet) |
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/AEON-mod/Customization">
+        <img src="https://img.shields.io/badge/💅-Customization-4ECDC4?style=for-the-badge" alt="Customization"/>
+      </a>
+      <br><small>Windows ricing & UI aesthetics</small>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/AEON-mod/Security-Improvements">
+        <img src="https://img.shields.io/badge/🔐-Security-FF6B6B?style=for-the-badge" alt="Security"/>
+      </a>
+      <br><small>Windows security & optimization</small>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/AEON-mod/CozyPixels">
+        <img src="https://img.shields.io/badge/🎨-CozyPixels-FFB6C1?style=for-the-badge" alt="CozyPixels"/>
+      </a>
+      <br><small>Aesthetic wallpaper collection</small>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/AEON-mod/Scripts">
+        <img src="https://img.shields.io/badge/⚙️-Scripts-95E1D3?style=for-the-badge" alt="Scripts"/>
+      </a>
+      <br><small>Utility scripts for ease</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,32 +77,28 @@
 │                                                             │
 │  Making Windows beautiful, secure, and blazingly fast      │
 │                                                             │
-│  One customization at a time, for everyone ✨              │
+│  One project at a time, for everyone ✨                    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**Believe in:**
-- 🎨 **Aesthetics matter** - Beauty and function aren't mutually exclusive
-- 🔐 **Privacy is a right** - Users deserve control over their systems
-- ⚡ **Performance counts** - Smooth systems are happy systems
-- 🤝 **Community is key** - Together we build better tools
+**Core Beliefs:**
+- 🎨 Aesthetics & function go hand-in-hand
+- 🔐 Privacy is fundamental
+- ⚡ Performance matters
+- 🤝 Community builds better tools
 
 </div>
 
 ---
 
-## 🤝 How to Contribute
-
-I'm always excited to work with the community! Here's how you can get involved:
+## 🤝 Contribute
 
 <div align="center">
 
-| 🐛 | 💡 | 🔄 | 📚 |
+| 🐛 Report Bugs | 💡 Suggest Ideas | 🔄 Submit PRs | 📚 Improve Docs |
 |:---:|:---:|:---:|:---:|
-| **Report Bugs** | **Suggest Ideas** | **Submit PRs** | **Improve Docs** |
-| Found an issue? | Have a feature idea? | Help us improve! | Better docs matter! |
-| [Open Issue](https://github.com/AEON-mod?tab=repositories) | [Start Discussion](https://github.com/AEON-mod?tab=repositories) | [Create PR](https://github.com/AEON-mod?tab=repositories) | [Edit Docs](https://github.com/AEON-mod?tab=repositories) |
+| Found an issue? | Have a feature? | Help us grow! | Better docs! |
 
 </div>
 
@@ -87,10 +106,7 @@ I'm always excited to work with the community! Here's how you can get involved:
 
 ## 📜 License
 
-Most of my projects are open-source. Check individual repositories for their respective licenses:
-- **[Customization](https://github.com/AEON-mod/Customization)** - MIT
-- **[Security-Improvements](https://github.com/AEON-mod/Security-Improvements)** - MIT  
-- **[CozyPixels](https://github.com/AEON-mod/CozyPixels)** - MIT
+Most projects are MIT licensed. Check individual repos for details.
 
 ---
 
@@ -104,14 +120,8 @@ Most of my projects are open-source. Check individual repositories for their res
 
 **Made with ❤️ for the open-source community**
 
+⭐ If my projects help you, please consider starring them!
+
 *Last updated: June 19, 2026*
-
----
-
-<sub>
-  <b>⭐ If you find my projects helpful, please consider starring them!</b>
-  <br>
-  It helps others discover these resources and motivates me to continue improving them. 🙏
-</sub>
 
 </div>

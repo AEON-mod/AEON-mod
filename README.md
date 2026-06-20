@@ -27,9 +27,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AEON-mod&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&icon_color=blueviolet)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AEON-mod&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&icon_color=blueviolet&bg_color=0D1117)](https://github.com/AEON-mod)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AEON-mod&theme=transparent&layout=compact&border_radius=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AEON-mod&theme=dark&layout=compact&border_radius=10&bg_color=0D1117)](https://github.com/AEON-mod)
 
 </div>
 
@@ -112,16 +112,10 @@ Most projects are MIT licensed. Check individual repos for details.
 
 <div align="center">
 
-### <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
 **Made with ❤️ for the open-source community**
 
 ⭐ If my projects help you, please consider starring them!
 
-*Last updated: June 19, 2026*
+*Last updated: June 20, 2026*
 
 </div>

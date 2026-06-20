@@ -5,18 +5,19 @@
 ### **Languages & Tools**
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ### **Specializations**
 
 ![System Security](https://img.shields.io/badge/System%20Security-FF6B6B?style=flat-square&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-4ECDC4?style=flat-square&logoColor=white)
 ![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-95E1D3?style=flat-square&logoColor=white)
-![Windows Administration](https://img.shields.io/badge/Windows%20Admin-0078D4?style=flat-square&logoColor=white)
+![Cross-Platform Admin](https://img.shields.io/badge/Cross--Platform%20Admin-9B59B6?style=flat-square&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-FF6B9D?style=flat-square&logoColor=white)
 
 </div>
@@ -43,13 +44,13 @@
       <a href="https://github.com/AEON-mod/Customization">
         <img src="https://img.shields.io/badge/💅-Customization-4ECDC4?style=for-the-badge" alt="Customization"/>
       </a>
-      <br><small>Windows ricing & UI aesthetics</small>
+      <br><small>Cross-platform ricing & aesthetics</small>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/AEON-mod/Security-Improvements">
         <img src="https://img.shields.io/badge/🔐-Security-FF6B6B?style=for-the-badge" alt="Security"/>
       </a>
-      <br><small>Windows security & optimization</small>
+      <br><small>System hardening & optimization</small>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/AEON-mod/CozyPixels">
@@ -61,7 +62,7 @@
       <a href="https://github.com/AEON-mod/Scripts">
         <img src="https://img.shields.io/badge/⚙️-Scripts-95E1D3?style=for-the-badge" alt="Scripts"/>
       </a>
-      <br><small>Utility scripts for Frictionless Workflows</small>
+      <br><small>Utility scripts & workflows</small>
     </td>
   </tr>
 </table>
@@ -73,20 +74,15 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  Making Windows beautiful, secure, and blazingly fast      │
-│                                                             │
-│  One project at a time, for everyone ✨                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+Making systems beautiful, secure, and blazingly fast
+One project at a time, for everyone ✨
 ```
 
-**Core Beliefs:**
-- 🎨 Aesthetics & function go hand-in-hand
-- 🔐 Privacy is fundamental
+**Core Values:**
+- 🎨 Aesthetics & function are inseparable
+- 🔐 Privacy & security first
 - ⚡ Performance matters
-- 🤝 Community builds better tools
+- 🤝 Community-driven excellence
 
 </div>
 
@@ -114,8 +110,6 @@ Most projects are MIT licensed. Check individual repos for details.
 
 **Made with ❤️ for the open-source community**
 
-⭐ If my projects help you, please consider starring them!
-
-*Last updated: June 20, 2026*
+⭐ If my projects help you, consider starring them!
 
 </div>

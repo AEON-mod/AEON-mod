@@ -54,7 +54,7 @@ Crafting systems that are beautiful, secure, and fast — across Windows & Linux
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AEON-mod&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&icon_color=CBA6F7&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&hide_border=true&hide_title=false)](https://github.com/AEON-mod)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AEON-mod&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&icon_color=CBA6F7&title_color=CBA6F7)](https://github.com/AEON-mod)
 
 </div>
 

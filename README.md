@@ -24,18 +24,6 @@ Crafting systems that are beautiful, secure, and fast — across Windows & Linux
 <table align="center">
   <tr>
     <td align="center" width="20%">
-      <a href="https://github.com/AEON-mod/Customization">
-        <img src="https://img.shields.io/badge/💅_Customization-4ECDC4?style=for-the-badge" alt="Customization"/>
-      </a>
-      <br><sub>Cross-platform ricing & theming</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/AEON-mod/Security-Improvements">
-        <img src="https://img.shields.io/badge/🔐_Security-FF6B6B?style=for-the-badge" alt="Security"/>
-      </a>
-      <br><sub>System hardening & optimization</sub>
-    </td>
-    <td align="center" width="20%">
       <a href="https://github.com/AEON-mod/CozyPixels">
         <img src="https://img.shields.io/badge/🎨_CozyPixels-FFB6C1?style=for-the-badge" alt="CozyPixels"/>
       </a>
@@ -46,6 +34,18 @@ Crafting systems that are beautiful, secure, and fast — across Windows & Linux
         <img src="https://img.shields.io/badge/🌌_My--Visuals-CBA6F7?style=for-the-badge" alt="My-Visuals"/>
       </a>
       <br><sub>Aesthetic visual collections</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/AEON-mod/Security-Improvements">
+        <img src="https://img.shields.io/badge/🔐_Security-FF6B6B?style=for-the-badge" alt="Security"/>
+      </a>
+      <br><sub>System hardening & optimization</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/AEON-mod/Customization">
+        <img src="https://img.shields.io/badge/💅_Customization-4ECDC4?style=for-the-badge" alt="Customization"/>
+      </a>
+      <br><sub>Cross-platform ricing & theming</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/AEON-mod/Scripts">

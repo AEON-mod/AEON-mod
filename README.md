@@ -59,9 +59,8 @@ Crafting systems that are beautiful, secure, and fast — across Windows & Linux
 ---
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AEON-mod&theme=dark&show_icons=true&include_all_commits=true&border_radius=10&icon_color=CBA6F7&title_color=CBA6F7&cache_seconds=1800)](https://github.com/AEON-mod)
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AEON-mod&show_icons=true&include_all_commits=true&count_private=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4&icon_color=89B4FA&hide_border=true&border_radius=10" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AEON-mod&layout=compact&bg_color=1E1E2E&title_color=F9E2AF&text_color=CDD6F4&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
 </div>
 
 ---

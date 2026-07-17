@@ -49,7 +49,7 @@ Crafting systems that are beautiful, secure, and fast — across Windows & Linux
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/AEON-mod/Scripts">
-        <img src="https://img.shields.io/badge/⚙️_Scripts-95E1D3?style=for-the-badge" alt="Scripts"/>
+        <img src="https://img.shields.io/badge/⚙️_Scripts-89B4FA?style=for-the-badge" alt="Scripts"/>
       </a>
       <br><sub>Utilities & automations</sub>
     </td>
@@ -60,7 +60,7 @@ Crafting systems that are beautiful, secure, and fast — across Windows & Linux
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AEON-mod&theme=dark&show_icons=true&include_all_commits=true&border_radius=10&icon_color=CBA6F7&title_color=CBA6F7&cache_seconds=1800)](https://github.com/AEON-mod)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AEON-mod&theme=dark&show_icons=true&include_all_commits=true&border_radius=10&icon_color=CBA6F7&title_color=CBA6F7&cache_seconds=1800)](https://github.com/AEON-mod)
 
 </div>
 

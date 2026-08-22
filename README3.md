@@ -2,9 +2,12 @@
 
 <p align="center">
   
-<img width="2788" height="1552" alt="Picsart_26-08-23_02-54-02-935" src="https://github.com/user-attachments/assets/40e4fcf8-35a7-4741-85ab-e73fea4e99ba" />
 
 </p>
+"𝙷𝚎𝚢, 𝙸'𝚖 𝙰𝙴𝙾𝙽 
+ 𝙸'𝚖 𝚊 𝙲𝚂 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎.
+ 𝙸 𝚕𝚘𝚟𝚎 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚌𝚕𝚎𝚊𝚗 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚎𝚟𝚎𝚗 𝚌𝚕𝚎𝚊𝚗𝚎𝚛 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌 𝚜𝚎𝚝𝚞𝚙𝚜 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚛𝚒𝚌𝚒𝚗𝚐. 
+𝙸𝚏 𝙸 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚕𝚘𝚘𝚔 𝚊𝚝 𝚊 𝚜𝚌𝚛𝚎𝚎𝚗 𝚊𝚕𝚕 𝚍𝚊𝚢, 𝚒𝚝 𝚋𝚎𝚝𝚝𝚎𝚛 𝚕𝚘𝚘𝚔 𝚐𝚘𝚘𝚍."`
 
 My journey started with wanting to make my Windows/Linux setup look like Aesthetic looking with eye-catching interractive interfaces, which led me to learn PowerShell, Bash, and automation.
 

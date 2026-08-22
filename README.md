@@ -2,7 +2,8 @@
 
 <p align="center">
   <!-- Replace this URL with your own aesthetic image or anime/meme if you want! -->
-<img width="1939" height="1080" alt="Picsart_26-08-23_02-29-26-480" src="https://github.com/user-attachments/assets/e83ec042-15d4-44ea-8460-5325861dcb2b" />
+<img width="2788" height="1552" alt="IMG_20260823_020740" src="https://github.com/user-attachments/assets/1be1ea8d-9c16-4fc1-9ce0-b9c2df8ed388" />
+
 
 </p>
 

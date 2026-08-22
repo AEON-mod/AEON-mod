@@ -2,14 +2,14 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 <p align="left">
 <code>
 
 "𝙷𝚎𝚢, 𝙸'𝚖 𝙰𝙴𝙾𝙽<br><br>
 𝙸'𝚖 𝚊 𝙲𝚂 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎.<br><br>
-𝙸 𝚕𝚘𝚟𝚎 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚌𝚕𝚎𝚊𝚗 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚎𝚟𝚎𝚗 𝚌𝚕𝚎𝚊𝚗𝚎𝚛 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌 𝚜𝚎𝚝𝚞𝚙𝚜 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚛𝚒𝚌𝚒𝚗𝚐.<br><br>
+𝙸 𝚕𝚘𝚟𝚎 𝚠𝚛𝚒𝚝𝚒𝚐𝚐 𝚌𝚕𝚎𝚊𝚗 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚐𝚐 𝚎𝚟𝚎𝚗 𝚌𝚕𝚎𝚊𝚗𝚎𝚛 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌 𝚜𝚎𝚝𝚞𝚙𝚜 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚛𝚒𝚌𝚒𝚐.<br><br>
 𝙸𝚏 𝙸 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚕𝚘𝚘𝚔 𝚊𝚝 𝚊 𝚜𝚌𝚛𝚎𝚎𝚗 𝚊𝚕𝚕 𝚍𝚊𝚢, 𝚒𝚝 𝚋𝚎𝚝𝚝𝚎𝚛 𝚕𝚘𝚘𝚔 𝚐𝚘𝚘𝚍."
 
 </code>
@@ -18,10 +18,10 @@
 My journey started with wanting to make my Windows/Linux setup look like Aesthetic looking with eye-catching interractive interfaces, which led me to learn PowerShell, Bash, and automation.
 
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center">
 
 <!-- 🔴 REPLACE THIS URL WITH YOUR 15MB GIF LINK -->
-<img src=https://github.com/AEON-mod/AEON-mod/blob/main/ezgif-88cccbda1bf83057.gif alt="AEON-mod Gif" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(198, 160, 247, 0.4);"/>
+<img src=https://github.com/AEON-mod/AEON-mod/blob/main/ezgif-88cccbda1bf83057.gif alt="AEON-mod Gif" width="400" height="400"/>
 
 </td>
 </tr>

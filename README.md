@@ -7,10 +7,6 @@
 
 </p>
 
-### About Me
-
-"Hey, I'm AEON-mod! 👋 I'm a CS student focused on Data Science. I love writing clean code and building even cleaner aesthetic setups through desktop ricing. If I have to look at a screen all day, it better look good—check out my setups below!"
-
 My journey started with wanting to make my Windows/Linux setup look like Aesthetic looking with eye-catching interractive interfaces, which led me to learn PowerShell, Bash, and automation.
 
 ### 🧰 Tech Stack & Tools

@@ -21,7 +21,7 @@ My journey started with wanting to make my Windows/Linux setup look like Aesthet
 <td width="40%" align="center">
 
 <!-- 🔴 REPLACE THIS URL WITH YOUR 15MB GIF LINK -->
-<img src=https://github.com/AEON-mod/AEON-mod/blob/main/ezgif-88cccbda1bf83057.gif alt="AEON-mod Gif" width="400" height="400"/>
+<img align='right' src="https://github.com/AEON-mod/AEON-mod/blob/main/ezgif-88cccbda1bf83057.gif" width="250">
 
 </td>
 </tr>

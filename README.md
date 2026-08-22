@@ -1,9 +1,8 @@
 # Hello Everyone!✦ 
 
 <p align="center">
-  <!-- Replace this URL with your own aesthetic image or anime/meme if you want! -->
-<img width="2788" height="1552" alt="IMG_20260823_020740" src="https://github.com/user-attachments/assets/1be1ea8d-9c16-4fc1-9ce0-b9c2df8ed388" />
-
+  
+<img width="2788" height="1552" alt="Picsart_26-08-23_02-54-02-935" src="https://github.com/user-attachments/assets/40e4fcf8-35a7-4741-85ab-e73fea4e99ba" />
 
 </p>
 

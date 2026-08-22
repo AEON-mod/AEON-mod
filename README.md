@@ -34,11 +34,11 @@ My journey started with wanting to make my Windows/Linux setup look like Aesthet
 
 ## 📂 My Repositories:
 
-- 🎨 [CozyPixels](https://github.com/AEON-mod/CozyPixels) 👉 A curated collection of high-quality wallpapers for your desktop.
-- 🌌 [My-Visuals](https://github.com/AEON-mod/My-Visuals) 👉 Aesthetic visual assets, themes, and color palettes.
+- 🎨 [CozyPixels](https://github.com/AEON-mod/CozyPixels) 👉 A collection of soft, pastel, Catppuccin wallpapers.
+- 🌌 [My-Visuals](https://github.com/AEON-mod/My-Visuals) 👉 A curated collection of high-quality wallpapers for your desktop.
 - 🔐 [Security-Improvements](https://github.com/AEON-mod/Security-Improvements) 👉 Scripts to harden your system privacy and security settings.
 - 💅 [Customization](https://github.com/AEON-mod/Customization) 👉 The ultimate guide and files for cross-platform ricing.
-- ⚙️ [Scripts](https://github.com/AEON-mod/Scripts) 👉 Utility scripts to automate boring tasks and boost productivity.
+- ⚙️ [Scripts](https://github.com/AEON-mod/Scripts) 👉 Utility scripts to improve gui and boost productivity.
 
 ---
 

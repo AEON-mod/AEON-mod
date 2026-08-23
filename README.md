@@ -39,6 +39,7 @@ My journey started with wanting to make my Windows/Linux setup look like Aesthet
 - 🔐 [Security-Improvements](https://github.com/AEON-mod/Security-Improvements) 👉 Scripts to harden your system privacy and security settings.
 - 💅 [Customization](https://github.com/AEON-mod/Customization) 👉 The ultimate guide and files for cross-platform ricing.
 - ⚙️ [Scripts](https://github.com/AEON-mod/Scripts) 👉 Utility scripts to improve gui and boost productivity.
+- ⚙️ [Work](https://github.com/AEON-mod/Work) 👉 Collection of Professional projects & collaborations.
 
 ---
 

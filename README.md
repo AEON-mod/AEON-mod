@@ -45,7 +45,6 @@ My journey started with wanting to make my Windows/Linux setup look like Aesthet
 
 ## Connect With Me
 <a href="https://discord.com/users/arkusx13"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>
-<a href="https://www.reddit.com/u/SignalUpstairs5255"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
 <a href="https://github.com/AEON-mod"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 
 ---

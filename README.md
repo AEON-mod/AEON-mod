@@ -45,7 +45,7 @@ My journey started with wanting to make my Windows/Linux setup look like Aesthet
 
 # 🌐 My Website:
 
-- 🎬 [suggestmesite.me](https://suggestmesite.me/) 👉 a clean, ad-free directory of entertainment sites. No tracking, no affiliate spam, just a curated list organized by category.
+- 🎬 [suggestmesite.me](https://suggestmesite.me/) 👉 a clean, ad-free directory of entertainment streaming & downloading sites.
  
 **What's in it:**
 ---

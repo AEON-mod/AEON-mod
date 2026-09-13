@@ -48,6 +48,7 @@ My journey started with wanting to make my Windows/Linux setup look like Aesthet
 - 🎬 [suggestmesite.me](https://suggestmesite.me/) 👉 a clean, ad-free directory of entertainment sites. No tracking, no affiliate spam, just a curated list organized by category.
  
 **What's in it:**
+---
 - 450+ sites across anime/donghua, Hollywood, Bollywood, K-drama, live sports, AI
 - Ranked by traffic and community trust
 - Clean retro UI, works on mobile, tab or any device 
